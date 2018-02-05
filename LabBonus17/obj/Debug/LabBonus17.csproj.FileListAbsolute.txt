@@ -1,0 +1,7 @@
+C:\Users\aManHasNoName\source\repos\LabBonus17\LabBonus17\bin\Debug\LabBonus17.exe.config
+C:\Users\aManHasNoName\source\repos\LabBonus17\LabBonus17\bin\Debug\LabBonus17.exe
+C:\Users\aManHasNoName\source\repos\LabBonus17\LabBonus17\bin\Debug\LabBonus17.pdb
+C:\Users\aManHasNoName\source\repos\LabBonus17\LabBonus17\obj\Debug\LabBonus17.csprojResolveAssemblyReference.cache
+C:\Users\aManHasNoName\source\repos\LabBonus17\LabBonus17\obj\Debug\LabBonus17.csproj.CoreCompileInputs.cache
+C:\Users\aManHasNoName\source\repos\LabBonus17\LabBonus17\obj\Debug\LabBonus17.exe
+C:\Users\aManHasNoName\source\repos\LabBonus17\LabBonus17\obj\Debug\LabBonus17.pdb
